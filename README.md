@@ -16,3 +16,5 @@ a class can add or remove listeners and republish events
 contains a action
 # Demo
 a demo shows how to use
+# DataPack
+all data packets inherit from EventArgs 
